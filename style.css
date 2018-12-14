@@ -262,3 +262,14 @@ img.pic1{
     height:300px;
     width:300px;
 }
+img.pic1:hover{
+    height:320px;
+    width:320px;
+     font-size:24px;
+   background-color:#8E1111;
+    color:white;
+    transition: all.5s;
+    box-shadow: 2px 1px 19px 7px #8E1111;
+    
+   
+}
